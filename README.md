@@ -24,9 +24,7 @@ Make sure you have installed all of the following prerequisites on your developm
 * MongoDB - [Download & Install MongoDB](http://www.mongodb.org/downloads), and make sure it's running on the default port (27017).
 * Bower - You're going to use the [Bower Package Manager](http://bower.io/) to manage your front-end packages. Make sure you've installed Node.js and npm first, then install bower globally using npm:
 
-```bash
-$ git clone https://github.com/douglas822/react-CRUD.git react-CRUD
-```
+
 ```bash
 $ npm install
 ```
@@ -36,4 +34,3 @@ $ npm start
 ```
 Go to your web browser and you are able to find the app running on localhost port 3000
 
-* Thanks for visiting my repository.
