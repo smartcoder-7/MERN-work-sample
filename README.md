@@ -1,4 +1,4 @@
-# React/Redux CRUD/Auth
+# MEAN stack Jogging Track
 
 ### Functionalities of this application
 * User must be able to create an account and log in.
